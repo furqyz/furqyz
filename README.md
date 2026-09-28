@@ -23,13 +23,8 @@
 
 ### 🌲 Hakkımda
 
-- 🎓 **İzmir Kâtip Çelebi Üniversitesi** Orman Endüstri Mühendisliği lisans bölümünden başarıyla mezun oldum.
 - 🚀 Mühendislik altyapımı **modern yazılım, veri analitiği, süreç otomasyonu ve dijital araçlarla** birleştirerek katma değer üretmeye odaklanıyorum.
 - 🤖 Node.js tabanlı, WebSocket mimarisine sahip ve **500.000'den fazla aktif kullanıcıya** ulaşan yüksek etkileşimli Discord bot sistemleri geliştirip ticarileştirdim.
-- 🔬 **TÜBİTAK 2209-A** Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı kapsamında sürdürülebilir malzeme geliştirme, deneysel tasarım ve raporlama adımlarını yürüttüm.
-- 📈 BIST ve ABD borsalarında veri odaklı **aktif portföy yönetimi ve finansal analiz** gerçekleştiriyorum.
-- 📦 Uluslararası ürün tedarikinden ödeme altyapısı entegrasyonlarına kadar **dijital ve fiziksel e-ticaret operasyonlarını** uçtan uca yönettim.
-- ✈️ **İHA-1 Ticari/Sportif Pilot Lisansı** & ⚓ **Amatör Denizci Belgesi** sahibiyim.
 - 💡 İş akışlarında, problem çözmede ve analitik modellemelerde **Yapay Zeka (AI) Araçları ve Prompt Mühendisliğini** aktif biçimde kullanarak zaman ve kaynak verimliliği sağlıyorum.
 
 ---
